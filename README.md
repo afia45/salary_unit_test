@@ -5,5 +5,5 @@ Hour <=40 -----per hr TK400
 Hour>40 ----- Tk 600 for additional hours
 
 ## Screenshots
-![Screen shots](asset/images/ss.png)
-![Screen shots](asset/images/ss1.png)
+![Screen shots](assets/ss.png)
+![Screen shots](assets/ss1.png)
